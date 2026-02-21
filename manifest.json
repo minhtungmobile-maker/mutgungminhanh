@@ -1,0 +1,12 @@
+﻿{
+  "name": "Mứt Gừng OCOP Tiền Giang",
+  "short_name": "Mứt Gừng TG",
+  "start_url": "/mung-gung-ocop-tg/",
+  "scope": "/mung-gung-ocop-tg/",
+  "display": "standalone",
+  "background_color": "#fff9f0",
+  "theme_color": "#D4AF37",
+  "icons": [
+    { "src": "assets/images/product.webp", "sizes": "192x192", "type": "image/webp" }
+  ]
+}
